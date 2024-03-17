@@ -1,0 +1,6 @@
+tensorflow==2.8.0
+keras
+streamlit
+numpy
+h5py
+protobuf==3.19.4
